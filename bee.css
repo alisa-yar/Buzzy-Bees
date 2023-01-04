@@ -9,15 +9,10 @@ html {
     margin: 0;
     hight: 100%;
     
-    /*background: #1DACC3;
-    background: -webkit-linear-gradient(top, #1DACC3, #72B25B);
-    background: -moz-linear-gradient(top, #1DACC3, #72B25B);
-    background: linear-gradient(to bottom, #1DACC3, #72B25B);*/
-    
-    background: #0196CE;
-    background: -webkit-linear-gradient(top, #0196CE, #85C170);
-    background: -moz-linear-gradient(top, #0196CE, #85C170);
-    background: linear-gradient(to bottom, #0196CE, #85C170);
+    background: #FF8901;
+    background: -webkit-linear-gradient(bottom, #FF8901, #FFF042);
+    background: -moz-linear-gradient(bottom, #FF8901, #FFF042);
+    background: linear-gradient(to top, #FF8901, #FFF042);
     
     background-repeat: no-repeat;
     background-size: cover;
