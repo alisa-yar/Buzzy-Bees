@@ -34,15 +34,17 @@ body {
     min-height: 100%;
 }
 
-.description, .conservancy{
+.description, .conservancy {
     color: var(--textColor);
     text-align: center;
     margin: 27px auto;
     margin-top: 10px;
     width: 90%;
     max-width: 500px;
+}
+
+.conservancy {
     text-decoration: none;
-    white-space: pre-wrap;
 }
 
 .profilePicture, .profilePicture img {
