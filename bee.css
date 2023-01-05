@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 
 :root {
-    --textColor: #FFFFFF;
+    --textColor: #00000;
     --font: 'Karla', sans-serif;
 }
 
@@ -34,30 +34,15 @@ body {
     min-height: 100%;
 }
 
-/*@keyframes gradient {
-      0% {
-          background-position: 0% 50%;
-      }
-      50% {
-          background-position: 100% 50%;
-      }
-      100% {
-          background-position: 0% 50%;
-      }
-}*/
-
-.description, .source{
+.description, .conservancy{
     color: var(--textColor);
     text-align: center;
     margin: 27px auto;
     margin-top: 10px;
     width: 90%;
     max-width: 500px;
-}
-
-.source{
-    font-size: small;
-    margin-top: 50px;
+    text-decoration: none;
+    white-space: pre-wrap;
 }
 
 .profilePicture, .profilePicture img {
@@ -68,7 +53,6 @@ body {
     margin: 35px auto 25px;
     border-radius: 0%;
     -webkit-tap-highlight-color: transparent;
-    
 }
 
 .userName {
