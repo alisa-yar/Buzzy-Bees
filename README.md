@@ -1,5 +1,5 @@
 # Seahorse Army Linktree:sparkles:
-https://seahorse.algofam.tech/
+https://buzzybees.algofam.tech/
 
 ## Where to host your website?
 Netlify: https://netlify.app  
