@@ -1,4 +1,4 @@
-# Seahorse Army Linktree:sparkles:
+# Buzzy Bees Linktree:sparkles:
 https://buzzybees.algofam.tech/
 
 ## Where to host your website?
